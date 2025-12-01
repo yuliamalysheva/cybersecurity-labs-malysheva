@@ -40,13 +40,9 @@
 ## Використання
 
 1. Відкрийте термінал або IDE (VS Code, PyCharm).
-2. Перейдіть у директорію з файлом:
-    ```bash
-    cd path/to/directory
-    ```
+2. Перейдіть у директорію з файлом: `digital_signature_system.py`.
 3. Запустіть програму:
     ```bash
     python digital_signature_system.py
     ```
 4. Дотримуйтесь інструкцій у консолі.
-
